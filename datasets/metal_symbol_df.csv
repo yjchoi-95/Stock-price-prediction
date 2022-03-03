@@ -1,0 +1,12 @@
+symbol,name,url
+copper,미국_구리,https://kr.investing.com/commodities/copper-historical-data
+copper,영국_구리,https://kr.investing.com/commodities/copper-historical-data?cid=959211
+gold,금,https://kr.investing.com/commodities/gold-historical-data
+lead,영국_납,https://kr.investing.com/commodities/lead-historical-data?cid=959207
+nickel,영국_니켈,https://kr.investing.com/commodities/nickel-historical-data?cid=959208
+platinum,미국_백금,https://kr.investing.com/commodities/platinum-historical-data
+zinc-futures,영국_아연,https://kr.investing.com/commodities/zinc-futures-historical-data?cid=956470
+aluminum,영국_알루미늄,https://kr.investing.com/commodities/aluminum-historical-data
+silver,은,https://kr.investing.com/commodities/silver-historical-data
+tin,영국_주석,https://kr.investing.com/commodities/tin-historical-data
+palladium,미국_팔라듐,https://kr.investing.com/commodities/palladium-historical-data

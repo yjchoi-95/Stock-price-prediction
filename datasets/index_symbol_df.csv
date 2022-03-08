@@ -1,6 +1,4 @@
 symbol,name,url
-kospi,코스피지수,https://kr.investing.com/indices/kospi-historical-data
-kospi-50,코스피 50,https://kr.investing.com/indices/kospi-50-historical-data
 kosdaq,코스닥,https://kr.investing.com/indices/kosdaq-historical-data
 us-30,다우존스,https://kr.investing.com/indices/us-30-historical-data
 us-spx-500,S&P 500,https://kr.investing.com/indices/us-spx-500-historical-data
@@ -42,3 +40,4 @@ idx-composite,인도네시아 IDX,https://kr.investing.com/indices/idx-composite
 s-p-cnx-nifty,Nifty 50,https://kr.investing.com/indices/s-p-cnx-nifty-historical-data
 sensex,인도 센섹스,https://kr.investing.com/indices/sensex-historical-data
 vn-30,VN 30,https://kr.investing.com/indices/vn-30-historical-data
+kospi-200,KOSPI200,https://kr.investing.com/indices/kospi-200-historical-data

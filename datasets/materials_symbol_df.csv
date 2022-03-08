@@ -1,0 +1,17 @@
+symbol,name,url
+london-sugar,런던_설탕,https://kr.investing.com/commodities/london-sugar-historical-data
+london-coffee,런던_커피,https://kr.investing.com/commodities/london-coffee-historical-data
+london-cocoa,런던_코코아,https://kr.investing.com/commodities/london-cocoa-historical-data
+us-sugar-no11,미국_설탕_No.11,https://kr.investing.com/commodities/us-sugar-no11-historical-data
+us-cotton-no.2,미국_원면_No.2,https://kr.investing.com/commodities/us-cotton-no.2-historical-data
+us-coffee-c,미국_커피_C,https://kr.investing.com/commodities/us-coffee-c-historical-data
+us-cocoa,미국_코코아,https://kr.investing.com/commodities/us-cocoa-historical-data
+orange-juice,오렌지_주스_선물,https://kr.investing.com/commodities/orange-juice-historical-data
+lumber,원목,https://kr.investing.com/commodities/lumber-historical-data
+crude-oil,WTI유,https://kr.investing.com/commodities/crude-oil-historical-data
+gasoline-rbob,가솔린_RBOB,https://kr.investing.com/commodities/gasoline-rbob-historical-data
+heating-oil,난방유,https://kr.investing.com/commodities/heating-oil-historical-data
+london-gas-oil,런던_가스_오일,https://kr.investing.com/commodities/london-gas-oil-historical-data
+brent-oil,브렌트유,https://kr.investing.com/commodities/brent-oil-historical-data
+natural-gas,천연가스,https://kr.investing.com/commodities/natural-gas-historical-data
+carbon-emissions,탄소배출권,https://kr.investing.com/commodities/carbon-emissions-historical-data
